@@ -1,0 +1,79 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.alarm",
+    "sha256_cert_fingerprints":
+    ["E0:F0:A8:89:A2:C0:39:36:6C:9E:45:56:A8:3B:CF:81:3A:95:8A:D2:BF:3C:79:DF:17:8D:23:EA:B3:44:FA:D1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://www.alexweb.eu"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.alarm",
+    "sha256_cert_fingerprints":
+    ["E0:F0:A8:89:A2:C0:39:36:6C:9E:45:56:A8:3B:CF:81:3A:95:8A:D2:BF:3C:79:DF:17:8D:23:EA:B3:44:FA:D1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.radiorealalexey",
+    "sha256_cert_fingerprints":
+    ["0A:A8:8B:FA:A9:E3:B6:47:59:60:A6:42:F4:F7:F3:15:93:EC:2D:4E:F2:C6:64:2B:23:DF:D9:F0:5A:8A:A3:08"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.radiospain",
+    "sha256_cert_fingerprints":
+    ["0A:A8:8B:FA:A9:E3:B6:47:59:60:A6:42:F4:F7:F3:15:93:EC:2D:4E:F2:C6:64:2B:23:DF:D9:F0:5A:8A:A3:08"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.serebryanniydozd",
+    "sha256_cert_fingerprints":
+    ["F9:0B:C5:32:42:DE:A1:03:CC:19:2A:C7:27:BE:57:DE:C1:DF:22:96:3E:41:0E:F4:DD:4F:33:E1:0D:84:F2:E4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.alexey_notebook",
+    "sha256_cert_fingerprints":
+    ["F9:0B:C5:32:42:DE:A1:03:CC:19:2A:C7:27:BE:57:DE:C1:DF:22:96:3E:41:0E:F4:DD:4F:33:E1:0D:84:F2:E4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.serebryanniydozd",
+    "sha256_cert_fingerprints":
+    ["F9:0B:C5:32:42:DE:A1:03:CC:19:2A:C7:27:BE:57:DE:C1:DF:22:96:3E:41:0E:F4:DD:4F:33:E1:0D:84:F2:E4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.alexweb.drugayaastrajanrealk",
+    "sha256_cert_fingerprints":
+    ["F9:0B:C5:32:42:DE:A1:03:CC:19:2A:C7:27:BE:57:DE:C1:DF:22:96:3E:41:0E:F4:DD:4F:33:E1:0D:84:F2:E4"]
+  }
+}]
